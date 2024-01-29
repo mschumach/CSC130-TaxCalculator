@@ -1,0 +1,1 @@
+TaxCalculator.py contains a handful of lines written to take a number input representing a sale amount and calculate fixed tax percentages, returning the total amount of the purchase and individual taxes. 
